@@ -25,7 +25,7 @@ dashboard:
 
 ![image](https://github.com/sahithi-kanjarla/admin-panel-dashboard/assets/139060052/c10563ae-0032-4b3e-8fc1-811740c89ba5)
 
-click on the dashboard option on the footer , scrolls up to the top of the dashboard.
+click on the dashboard option on the footer, and scroll up to the top of the dashboard.
 
 sidebar:
 - hovers on the options of the sidebar with respective icons :
